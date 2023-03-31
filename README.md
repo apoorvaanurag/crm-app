@@ -1,4 +1,3 @@
-# crmapp
 # CRM App using Django
 
  A powerful customer relationship management tool built on the Django web framework.

@@ -10,3 +10,5 @@ Some of the key features of the app include:
 * Intuitive interface for managing customer contacts
 * Ability to add, update, and delete records
 * Fast and reliable performance with a locally stored SQLite database
+
+Written in Django and HTML

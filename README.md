@@ -14,5 +14,6 @@ Some of the key features of the app include:
 
 <p align="left">
 <img src="images/Login.png" alt="Channel Preview" width="500"/>
+ &nbsp;
  <img src="images/All_Records.png" alt="Channel Preview" width="500"/>
 </p>

@@ -17,5 +17,5 @@ Some of the key features of the app include:
 <img src="images/All_Records.png" alt="Channel Preview" width="500"/>
 <img src="images/Customer_Record.png" alt="Channel Preview" width="500"/>
 <img src="images/Add_Record.png" alt="Channel Preview" width="500"/>
-<img src="images/Update_Record.png" alt="Channel Preview" width="500"/>
+<img src="images/Update.png" alt="Channel Preview" width="500"/>
 </p>

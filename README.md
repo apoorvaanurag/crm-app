@@ -11,3 +11,8 @@ Some of the key features of the app include:
 * Ability to add, update, and delete records
 * Fast and reliable performance with a locally stored SQLite database
 
+
+<p align="left">
+<img src="images/Login.png" alt="Channel Preview" width="200"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>

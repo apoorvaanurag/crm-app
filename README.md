@@ -13,6 +13,6 @@ Some of the key features of the app include:
 
 
 <p align="left">
-<img src="images/Login.png" alt="Channel Preview" width="200"/>
+<img src="images/Login.png" alt="Channel Preview" width="500"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
